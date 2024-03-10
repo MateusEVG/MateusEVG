@@ -1,0 +1,5 @@
+- 👋 Hi, I’m Mateus Evangelista do Nascimento
+- 😃 Learning C, C++, Java, Javascript and Python for Data Science
+- 😎💻 Computer Science student in PUC-Minas
+- 😸 Contact me : mateusadmif@gmail.com
+- 👉 Follow my Linkedin: www.linkedin.com/in/mateus-evangelista-a4961321b
